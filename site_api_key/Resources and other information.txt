@@ -1,0 +1,6 @@
+Resources used:
+*Internet:
+Drupal form API : https://www.drupal.org/docs/8/api/form-api
+Event subscirpber :https://www.drupal.org/docs/8/modules/simple-fb-connect-8x/eventsubscriber-example
+
+*Time to complete : 4 Hours approx.

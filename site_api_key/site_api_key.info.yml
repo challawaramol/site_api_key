@@ -1,0 +1,4 @@
+name: Site API Key
+description: Provides functionality to configure site level API key.
+type: module
+core: '8.x'
